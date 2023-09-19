@@ -1,27 +1,29 @@
 ---
-title: This post contains a code sample
-metaDescription: Add code samples to your markdown files
-date: 2019-01-01T00:00:00.000Z
+title: Thoughts on why non-conformists look alike
+date: 2023-09-19T05:28:42.407Z
 summary: Add code samples to your markdown files
+metaDescription: Add code samples to your markdown files
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - mathematics
+  - odd one out
+  - non-conformists
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+<!--StartFragment-->
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The fact that we try to find individuality, only to be herded again?\
+\
+Not sure if this is evolutionary:\
+\
+👉🏽the strays made mistakes which helped the tribes learn.\
+\
+👉🏽if the strays didn’t recover from their doings or mistakes, the tribe actively shuns it\
+\
+All of this knowledge, gets passed down by respective media (DNA, spoken word, written word, art)
 
-## Section Header
+<!--EndFragment-->
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+![](/src/assets/img/hipster.jpg)
 
 ```js
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
+
 ```
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
